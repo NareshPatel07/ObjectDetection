@@ -38,12 +38,12 @@ The notebook demonstrates how deep learning and computer vision techniques can b
       jupyter notebook Object_detection.ipynb
 
 ##📊 Results
- -Detected multiple objects in images with bounding boxes.
- -Evaluated performance using standard metrics (Precision, Recall, mAP).
- -(Sample outputs can be added later inside a results/ folder.)
+    -Detected multiple objects in images with bounding boxes.
+    -Evaluated performance using standard metrics (Precision, Recall, mAP).
+    -(Sample outputs can be added later inside a results/ folder.)
 
 ##📚 Learning Outcome
--Through this project, I gained practical knowledge of:
--Computer Vision techniques
--Deep Learning for detection
--Using Python, TensorFlow/Keras, and OpenCV in real projects
+   -Through this project, I gained practical knowledge of:
+   -Computer Vision techniques
+   -Deep Learning for detection
+   -Using Python, TensorFlow/Keras, and OpenCV in real projects
