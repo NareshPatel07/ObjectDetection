@@ -25,3 +25,25 @@ The notebook demonstrates how deep learning and computer vision techniques can b
    ```bash
    git clone https://github.com/NareshPatel07/ObjectDetection.git
    cd ObjectDetection
+
+
+2. Install dependencies (if not already installed):
+
+    ```bash
+      pip install tensorflow keras opencv-python matplotlib numpy
+
+
+3. Open the notebook:
+   ```bash
+      jupyter notebook Object_detection.ipynb
+
+##📊 Results
+ -Detected multiple objects in images with bounding boxes.
+ -Evaluated performance using standard metrics (Precision, Recall, mAP).
+ -(Sample outputs can be added later inside a results/ folder.)
+
+##📚 Learning Outcome
+-Through this project, I gained practical knowledge of:
+-Computer Vision techniques
+-Deep Learning for detection
+-Using Python, TensorFlow/Keras, and OpenCV in real projects
