@@ -39,9 +39,9 @@ The notebook demonstrates how deep learning and computer vision techniques can b
 ---
 
 ## 📊 Results
-    
-   -Detected multiple objects in images with bounding boxes.
-   -Evaluated performance using standard metrics (Precision, Recall, mAP).
+
+    -Detected multiple objects in images with bounding boxes.
+    -Evaluated performance using standard metrics (Precision, Recall, mAP).
 ---
 
 ## 📚 Learning Outcome
